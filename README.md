@@ -26,7 +26,7 @@ RamCMS là một phiên bản Việt hoá của [maccms10](https://github.com/ma
 Cài đặt RamCMS thông qua Github
 
 ```bash
-  git clone https://github.com/brevis-ng/vn-cms.git
+  git clone https://github.com/brevisnguyen/ramcms.git
 ```
 Xoá file ```application\data\install\install.lock ```  và tiến hành cài đặt
 
